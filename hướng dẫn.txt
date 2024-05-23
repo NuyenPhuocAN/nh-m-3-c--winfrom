@@ -1,0 +1,12 @@
+linkdrive chứa video demo và các file của đề tài: https://drive.google.com/drive/folders/1PVPZfAIyVtO8xoHsOtxnoaiF6ic6MGBQ?usp=sharing
+
+link github: https://github.com/NuyenPhuocAN/nh-m-3-c--winfrom.git
+
+hướng dẫn:
+
+thư mục QL_KARAOKE là thư mục chứa chương trình quản lý quán karaoke
+
+mở file QL_KARAOKE.sln kết nối database với sql server
+vào App.config thay Data Source=PC\AN thành địa chỉ sql của máy rồi chạy 
+tài khoản: admin
+mật khẩu: 123
